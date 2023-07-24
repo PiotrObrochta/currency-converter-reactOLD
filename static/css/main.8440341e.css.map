@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8440341e.css","mappings":"AAAA,MACE,qBACF,CAEA,iBAGE,kBACF,CAEA,KACE,6BACF","sources":["index.css"],"sourcesContent":[".html {\n  box-sizing: border-box;\n}\n\n*,\n::after,\n::before {\n  box-sizing: inherit;\n}\n\nbody {\n  font-family: 'Oswald', sans-serif;\n}"],"names":[],"sourceRoot":""}
