@@ -1,16 +1,14 @@
 import Form from "./Form";
-
+import Container from "./Container";
 
 function App() {
   return (
-    <body className="body">
-    <div className="container">
-<Form />
-        <p className="container__paragraph">Po przeliczeniu otrzymasz <strong className="">N/A</strong></p>
-    </div>
-
-</body>
+      <Container>
+      <Form />
+      </Container>
   );
 }
 
 export default App;
+
+
