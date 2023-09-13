@@ -1,3 +1,5 @@
+import "./style.css";
+
 const Form = () => (
     <form className="form">
             <fieldset className="form__fieldset">
